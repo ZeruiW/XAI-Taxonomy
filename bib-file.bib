@@ -1,9 +1,92 @@
-@article{Rudin2019StopEB,
-  title={Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead},
-  author={Cynthia Rudin},
-  journal={Nature Machine Intelligence},
-  year={2019},
-  volume={1},
-  pages={206-215}
+%SVM
+@article{VargasLopez2021AnEM,
+  title={An Explainable Machine Learning Approach Based on Statistical Indexes and SVM for Stress Detection in Automobile Drivers Using Electromyographic Signals},
+  author={Olivia Vargas-Lopez and Carlos A. Perez-Ramirez and Martin Valtierra-Rodriguez and Jesus J. Yanez-Borjas and Juan Pablo Amezquita-Sanchez},
+  journal={Sensors (Basel, Switzerland)},
+  year={2021},
+  volume={21}
 }
 
+%RNN
+@inproceedings{Arras2017ExplainingRN,
+  title={Explaining Recurrent Neural Network Predictions in Sentiment Analysis},
+  author={Leila Arras and Gr{\'e}goire Montavon and Klaus-Robert M{\"u}ller and Wojciech Samek},
+  booktitle={WASSA@EMNLP},
+  year={2017}
+}
+
+%CNN
+@article{Tan2019EfficientNetRM,
+  title={EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks},
+  author={Mingxing Tan and Quoc V. Le},
+  journal={ArXiv},
+  year={2019},
+  volume={abs/1905.11946}
+}
+@article{Hughes2021PerformanceOA,
+  title={Performance of a Convolutional Neural Network and Explainability Technique for 12-Lead Electrocardiogram Interpretation.},
+  author={J. Weston Hughes and Jeffrey E. Olgin and Robert Calin Avram and Sean Abreau and Taylor Sittler and Kaahan Radia and Henry H Hsia and Tomos E. Walters and Byron K Lee and Joseph E. Gonzalez and Geoffrey H. Tison},
+  journal={JAMA cardiology},
+  year={2021}
+}
+
+
+%Deep Networks
+@InProceedings{pmlr-v70-sundararajan17a,
+  title = 	 {Axiomatic Attribution for Deep Networks},
+  author =       {Mukund Sundararajan and Ankur Taly and Qiqi Yan},
+  booktitle = 	 {Proceedings of the 34th International Conference on Machine Learning},
+  pages = 	 {3319--3328},
+  year = 	 {2017},
+  editor = 	 {Precup, Doina and Teh, Yee Whye},
+  volume = 	 {70},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {06--11 Aug},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v70/sundararajan17a/sundararajan17a.pdf},
+  url = 	 {https://proceedings.mlr.press/v70/sundararajan17a.html},
+  abstract = 	 {We study the problem of attributing the prediction of a deep network to its input features, a problem previously studied by several other works. We identify two fundamental axioms—Sensitivity and Implementation Invariance that attribution methods ought to satisfy. We show that they are not satisfied by most known attribution methods, which we consider to be a fundamental weakness of those methods. We use the axioms to guide the design of a new attribution method called Integrated Gradients. Our method requires no modification to the original network and is extremely simple to implement; it just needs a few calls to the standard gradient operator. We apply this method to a couple of image models, a couple of text models and a chemistry model, demonstrating its ability to debug networks, to extract rules from a network, and to enable users to engage with models better.}
+}
+
+
+%Saliency Maps
+@article{Simonyan2014DeepIC,
+  title={Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps},
+  author={Karen Simonyan and Andrea Vedaldi and Andrew Zisserman},
+  journal={CoRR},
+  year={2014},
+  volume={abs/1312.6034}
+}
+
+@article{Hong2015OnlineTB,
+  title={Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network},
+  author={Seunghoon Hong and Tackgeun You and Suha Kwak and Bohyung Han},
+  journal={ArXiv},
+  year={2015},
+  volume={abs/1502.06796}
+}
+
+@article{Liu2018PiCANetLP,
+  title={PiCANet: Learning Pixel-Wise Contextual Attention for Saliency Detection},
+  author={Nian Liu and Junwei Han and Ming-Hsuan Yang},
+  journal={2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2018},
+  pages={3089-3098}
+}
+
+
+references: 
+Support vector machines\cite{VargasLopez2021AnEM}
+Recurrent Neural Networks\cite{Arras2017ExplainingRN}
+Convolutional Neural Networks\cite{Tan2019EfficientNetRM}\cite{Hughes2021PerformanceOA}
+Deep Networks \cite{pmlr-v70-sundararajan17a}
+Partial Dependence plots (PDP) \cite{Friedman_1991}
+Individual Conditional Expectation (ICE) plots\cite{Goldstein_Kapelner_Bleich_Pitkin}
+Accumulated Local Effects (ALE) plot \cite{https://doi.org/10.48550/arxiv.1612.08468} 
+Saliency Maps\cite{Simonyan2014DeepIC} \cite{Hong2015OnlineTB} \cite{Liu2018PiCANetLP} \cite{Liu2018PiCANetLP}
+Decision Set \cite{10.1145/2939672.2939874}
+Bayesian Analysis \cite{ Letham_Rudin_McCormick_Madigan_2015}
+LIME \cite{Ribeiro_Singh_Guestrin_2016}
+Anchor \cite{anchors:aaai18}
+Shapley Calues \cite{shapley1953value}
+SHAP \cite{https://doi.org/10.48550/arxiv.1705.07874} \cite{Lundberg_Erion_Chen_DeGrave_Prutkin_Nair_Katz_Himmelfarb_Bansal_Lee_2020}
