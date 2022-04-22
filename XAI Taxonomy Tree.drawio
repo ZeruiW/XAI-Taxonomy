@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T01:13:23.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="j5Py4e2SDmolHc4dCDeT" version="17.4.6" type="google"><diagram id="fUU3eTQK2Krqb0j5PKWN" name="Page-1">7VxtU+o4FP41zOx+4E7blAIfEVHvjN71iqvuftmJJULX0HTTVMBff1PaQpvAghWSMKMzDuS0CemT57zk5EAD9KfzSwqjyQ0ZIdxwrDENRg1w3nAcm/9zQQTHqCJI7xgG74XQyqVJMEJx5UZGCGZBVBX6JAyRzyoySCmZVW97IViextCHGEnSx2DEJpm047TX8isUjCfFB9leN7syhcXN+cTjCRyRWUkEBg3Qp4Sw7N103kc4RabAJet3seXqamIUhWyfDs3HP+4uX/8OIjfsD/67b914wWMzH+UN4iR/4Kfe94bjwWnUAGfhc5y+5PNniwIUSpJwhNJxLX55NgkYGkbQT6/O+Bpz2YRNMW/Zq95viDI03zp1ewUIpwkiU8Togt+Sd/ByCBf5zd28PSutSC6alBajQB7mSz5eDbyGib/JkfoAakBC7ZbErHlFfC4dzCMMQ8gCEmoHzu5UkVvBVELOBiqhcyXolgahOYyQH7wEvnbIQEsg2ybIbJWQtSTIzpKAWy3HuqcwjPNHc6zcshpGuQ26arsq4bNlbZVAQiNu9PMmws9kNlgLzpYCfmFCaPBOQgZxKgxHvdSbcLmPYRxz5laQrMLOsaOLp3Ljr7TxrVU0z+fli+eLojUP2FM+Yvq+1Iu31p3SRtEne7j0if5/BTkAJKE+2u0dGKRjxHYxVGZEaclbG1a8kFGEubV8q053Ew3yT7glwZLvBeEEhXUsgUnZY+a9yg5SHEhg7sowFgNlOEgDLVm5euxPEFW2jV9EPSxRgVaiOlV+AbcuUdsC47uKiSp7pMyJ98Yhj4MMdOKgrduJ254Byl1DSesahAMqN9hTuV2dyg1sQSfbNZUbCJsdiZLHVu62AUQ9Oul2ksnWGtNIbBIt/L5scgRD6IrB0ZHZ5H6QTYSyCRmTEOIyparsWN9zTUiUE+hfxNgizxbBhJEqvQywYoUa7zZjW5i3N6U+5aeKaZYWbJnQCEIufE7nEQfTCKdbdTNSHG5XcPXWBlevdMPpyBvOCwRZQlHKJYOyQxJ0m6IktdDJW6CHIE4gNhw5F2hHTo7J1bvt04wvnX0DTMfTGRN4YIu2fjQm8IQIEyiOMB15K3QD49cgHDfPYMzZpFu7PWF/vdqoa9s9OnIYdZOwpS00FDPX1o5ZxwCLeJrptP0tYlurRRQTal5diygM5CpOqDldc6nqKNx0O1pTOK7oFzs16dSytthCRXQqAgUT6WS45StS27upajV0UlWMBetaPlc48wKqqSoXoJwMVQ9p+LQeTB3M8Im0dFuK2eRIbLpJMAua13CBKL/wAyV0mUz4gdiM0FeJa8oTCeKZ86athqcybAZy9qpPwjeCk3S3kYNnOoqbanbaSlGUE1l3yE9oXqpjPIIrZPQhaEJC6zSDGHdPr5OZS21eR9h02XXPuNz2FhuqyuuYcLSvP4YBRsUw9dkknr+rjmEMPn/fmQs4FcOnt1RE9LW1qSqE245qw2dChtUAxmmzeaLjq00kkZHi0dKxiSTnP79lfxKftAfGnu7AuFDyEli90Ocq9DmsXgKM+wTzYdK+oN+/uOh2D4NhR6xm0v6VCldOOw0nMMIonfXDUngqYIJNpQdqwZSzLsOr3u3pIKi9ONiVcy4930+mCXcP6dmudU38Zbpg8PKCfBbzd7/1rge/89dbTNjJIK3/UNiVswp3CUbN5+wQ3cII0hB90pQeADnxON0Akynvcs+RH8TLcizrnqJPmswjgAb00+1EI2QTqrL2rpfVW5UlmLhW3S/1iFVZqmsQWrIXPwmqHpBy2yqv1TCpLdSU1k4LSOG2aiZ9feG2ttHz9jV6WzyhIqq6gq0SHei+VBU5L9W0HpuqX1+5PT5VHaOoKha41KaqWHJzbKp+nYfWpmp7X6pqPcJqiyXUdUPJjlgXe7wA4OfP6fti+Gdn+hBe3vUv5v8432cbflToFlIWLDMY5yjinEOhj04ueVEs8xF2k7y5/iGobBnWv5UFBr8A</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="fUU3eTQK2Krqb0j5PKWN" name="Page-1">
+        <mxGraphModel dx="657" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-1" value="XAI&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="200" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-3" value="Post-Hoc Explanation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="300" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-4" value="Model-Specific Methods" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="240" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-5" value="Build Interpretable Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="100" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-15" value="Model-Agnostic Methods" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="360" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-20" value="Explain by simplification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="300" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-23" value="Feature explanation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="370" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-24" value="Visual explanation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="430" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-26" value="Masking-Based" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="340" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-27" value="Mutation-Based" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="410" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-32" value="Multi-Layer Neural Network" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="140" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-33" value="Convolutional Neural Network" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="180" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-34" value="Recurrent Neural Network" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="220" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-39" value="......." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="260" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-40" value="Anchor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="280" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-41" value="Shapley Value" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="330" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-42" value="SHAP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="370" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-43" value="Accumulated Local Effects (ALE) Plot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="410" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-45" value="Rule-based learner" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="280" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-46" value="Decision Tree" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="310" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-52" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-WORGkZip4nCEqT5M6iW-45" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="790" y="290" as="sourcePoint"/>
+                        <mxPoint x="810" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-53" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-WORGkZip4nCEqT5M6iW-26" target="-WORGkZip4nCEqT5M6iW-41" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="740" y="420" as="sourcePoint"/>
+                        <mxPoint x="790" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-54" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-WORGkZip4nCEqT5M6iW-26" target="-WORGkZip4nCEqT5M6iW-42" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="740" y="410" as="sourcePoint"/>
+                        <mxPoint x="790" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-WORGkZip4nCEqT5M6iW-55" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-WORGkZip4nCEqT5M6iW-27" target="-WORGkZip4nCEqT5M6iW-43" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="770" y="440" as="sourcePoint"/>
+                        <mxPoint x="820" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="QQmzySU8mVnGRCFx_2Iw-1" value="Partial Dependence Plot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="450" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Linear Regression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="60" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Decision Tree" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="140" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Logistic Regression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="100" width="100" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
